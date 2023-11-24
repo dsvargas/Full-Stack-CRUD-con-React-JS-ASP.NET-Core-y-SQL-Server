@@ -1,0 +1,2 @@
+# Full-Stack-CRUD-con-React-JS-ASP.NET-Core-y-SQL-Server
+El lado del servidor consistirá en una Api Rest hecha con ASP.NET Core e implementando Entity Framework, la API estará conectada a un gestor de base de datos de SQL Server. Las peticiones serán GET, POST, PUT, DELETE.  El lado cliente con React JS y consistirá en un CRUD con peticiones al API Rest con bootstrap, reactstrap, axios,ventanas modales
